@@ -1,6 +1,6 @@
-const first = 4;
-const second = 2;
-if (first == second){
+const first = 2;
+const second = "2";
+if (first === second){
     console.log("condition is true");
 }
 else{
